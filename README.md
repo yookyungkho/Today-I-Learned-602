@@ -1,7 +1,8 @@
 # Today-I-Learned-602
 
 
-![til_banner](https://user-images.githubusercontent.com/68496320/104405884-5fc87380-55a1-11eb-9970-d7010ebeac9c.png)
+![til_banner](https://user-images.githubusercontent.com/68496320/104406616-10834280-55a3-11eb-88c0-0d8f48e3ae4a.png)
+
 
 : **1 day 1 commit project**
 
