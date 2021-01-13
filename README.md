@@ -8,4 +8,4 @@
 
 <br/>
 
-TIL will be uploaded on [my velog page](https://velog.io/@yookyungkho) as well.
+TIL will be written with **Markdown** and uploaded on [my velog page](https://velog.io/@yookyungkho) as well.
